@@ -1,0 +1,2 @@
+rootProject.name = 'raposa_app'
+include ':app'
